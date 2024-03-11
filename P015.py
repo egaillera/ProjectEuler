@@ -36,7 +36,7 @@ def move(x,y):
 
 
 '''
-Function that calculates recusively the number of paths
+Function that calculates recursively the number of paths
 from one given point (x,y) to (N,N)
 '''
 def pathcount(x,y):
